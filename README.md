@@ -24,7 +24,7 @@ by **bemyselfstar studio**
 <p align="center">
   <img src="assets/screenshot-main.png" width="900" alt="Nookpane with three tabs, the bookmarks bar, and a Markdown file previewed in the preview pane">
 </p>
-<p align="center"><sub>Tabs, a bookmarks bar, and a Markdown file in the preview pane. The file list is the real File Explorer view, so it follows your Windows language. (Navigation pane blurred.)</sub></p>
+<p align="center"><sub>Tabs, a bookmarks bar, and a Markdown file in the preview pane. The file list is the real File Explorer view. (Navigation pane blurred.)</sub></p>
 
 ---
 
