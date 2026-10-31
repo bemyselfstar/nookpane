@@ -72,7 +72,7 @@ Most File Explorer replacements rebuild the file list from scratch, and somethin
 - `Ctrl+T` new tab, `Ctrl+W` close, `Ctrl+Tab` next, `Ctrl+1`–`9` jump to a tab.
 - Drag tabs to reorder. **Drag a tab out** of the strip to make a new window; drag it onto another window to merge.
 - Reopen the last closed tab with `Ctrl+Shift+T`. When there are too many tabs to fit, the ⌄ button lists all of them.
-- **Restore windows** brings back every window and tab from your last session.
+- **Restore windows** (in the history button's menu) brings back every window and tab from your last session.
 
 ### ⭐ Bookmarks bar
 - One click on **★ Add** bookmarks the current folder. Bookmarks can point to folders or files.
@@ -103,13 +103,14 @@ In the preview pane (`Alt+P`), Nookpane can show files File Explorer can't:
 - Network drives reached by IP address are treated as "Internet" by Windows, so their previews are blocked. Nookpane can add that server to your **Local intranet** list (private addresses only, your account only).
 
 ### 🏠 Make it your default (optional)
-- **Set as default file manager**: double-clicking a folder or drive opens Nookpane. Switch it off any time, and right-click → **Open** always gives you File Explorer.
-- **Take over File Explorer windows**: when a File Explorer window appears (`Win+E`, "Show in folder" from another app), Nookpane opens the same place, with the same files selected, and closes the File Explorer window.
+**⋮ → Settings → Use Nookpane instead of File Explorer** turns on both of these, and one more click turns both off:
+- Double-clicking a folder or drive opens Nookpane. Right-click → **Open** always gives you File Explorer.
+- When a File Explorer window appears (`Win+E`, "Show in folder" from another app), Nookpane opens the same place, with the same files selected, and closes the File Explorer window.
 
 ### ✨ And
 - Dark mode follows your Windows setting.
 - Signed automatic updates: checked over HTTPS, verified with SHA-256 and a digital signature, and **never installed without your OK**.
-- **Copy diagnostic info (hide personal info)** for bug reports: computer name, user name, servers, IP addresses and paths are replaced with placeholders.
+- **Copy diagnostic info** for bug reports: computer name, user name, servers, IP addresses and paths are replaced with placeholders.
 - English and Traditional Chinese interface, chosen from your Windows display language.
 
 ## Nookpane vs. File Explorer
@@ -200,7 +201,7 @@ Some antivirus programs are wary of new programs that update themselves. If your
 
 ## Uninstall
 
-1. In Nookpane, open **⋮** (top right) → **Remove all settings from this PC…**. This removes the preview handlers, the default-file-manager setting and the intranet settings, then closes Nookpane. Your bookmarks stay. If Nookpane won't start, run `Nookpane.exe --uninstall-all`.
+1. In Nookpane, open **⋮** (top right) → **Help and feedback** → **Remove all settings from this PC…**. This removes the preview handlers, the default-file-manager setting and the intranet settings, then closes Nookpane. Your bookmarks stay. If Nookpane won't start, run `Nookpane.exe --uninstall-all`.
 2. Delete the Nookpane folder.
 3. To remove your bookmarks and settings too, delete `%LOCALAPPDATA%\Nookpane\`.
 
@@ -242,7 +243,7 @@ It's free to use, including at work, and you may share unmodified copies. It's n
 
 - Each tab still shows File Explorer's own command bar.
 - Search results don't highlight matching words.
-- `Win+E` can only be redirected through **Take over File Explorer windows**.
+- `Win+E` can only be redirected through **Use Nookpane instead of File Explorer**.
 - Some dialogs are still in Chinese only; translation is in progress.
 
 ## Roadmap
@@ -256,7 +257,7 @@ It's free to use, including at work, and you may share unmodified copies. It's n
 
 ## Reporting a problem
 
-1. In Nookpane, open **⋮** → **Copy diagnostic info (hide personal info)**.
+1. In Nookpane, open **⋮** → **Help and feedback** → **Copy diagnostic info**.
 2. [Open an issue](https://github.com/bemyselfstar/nookpane/issues/new/choose) and paste it in. English or Chinese is fine.
 
 Release notes for every version are on the [Releases](https://github.com/bemyselfstar/nookpane/releases) page.
