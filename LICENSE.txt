@@ -1,0 +1,74 @@
+Nookpane Freeware License
+
+Copyright (c) 2026 bemyselfstar studio. All rights reserved.
+
+Nookpane ("the Software") is free software in the sense of "free of charge".
+It is not open source.
+
+1. You may download, install and use the Software free of charge, on any
+   number of computers, for personal or commercial purposes, including at
+   work.
+
+2. You may give unmodified copies of the Software, exactly as downloaded
+   from https://github.com/bemyselfstar/nookpane, to other people,
+   as long as you do not charge for it.
+
+3. You may not:
+   a. sell the Software, or include it in anything you sell;
+   b. modify the Software, or distribute modified copies;
+   c. remove or change this license or the copyright notice;
+   d. present the Software as your own work.
+
+4. The source code is not published and is not licensed to you.
+
+5. NO WARRANTY. The Software is provided "as is", without warranty of any
+   kind, express or implied, including but not limited to the warranties of
+   merchantability, fitness for a particular purpose and non-infringement.
+   You use it at your own risk.
+
+6. LIMITATION OF LIABILITY. In no event shall the copyright holder be liable
+   for any claim, damages or other liability, whether in an action of
+   contract, tort or otherwise, arising from, out of or in connection with
+   the Software or the use of or other dealings in the Software.
+
+7. Third-party components. The full package (Nookpane.zip) includes the
+   Microsoft .NET runtime, which is licensed separately under the MIT
+   license by the .NET Foundation and contributors. See
+   https://github.com/dotnet/runtime/blob/main/LICENSE.TXT and
+   https://github.com/dotnet/runtime/blob/main/THIRD-PARTY-NOTICES.TXT
+
+The Chinese text below is a translation for convenience. If the two differ,
+the English text applies.
+
+----------------------------------------------------------------------------
+
+Nookpane 免費軟體授權
+
+著作權所有 (c) 2026 bemyselfstar studio。保留所有權利。
+
+Nookpane（以下稱「本軟體」）是免費軟體，但不是開放原始碼軟體。
+
+1. 你可以免費下載、安裝、使用本軟體，台數不限，個人或商業用途都可以，
+   包括在工作上使用。
+
+2. 你可以把從 https://github.com/bemyselfstar/nookpane 下載、
+   沒有修改過的本軟體免費轉給別人，但不可以收費。
+
+3. 你不可以：
+   a. 販售本軟體，或把它放進任何你販售的東西裡；
+   b. 修改本軟體，或散布修改過的版本；
+   c. 移除或改動這份授權或著作權聲明；
+   d. 把本軟體當成你自己的作品。
+
+4. 原始碼沒有公開，也不授權給你。
+
+5. 不提供任何保證。本軟體「依現狀」提供，不做任何明示或默示的保證，
+   包括但不限於適售性、特定用途適用性及不侵權。使用風險由你自行承擔。
+
+6. 責任限制。不論基於契約、侵權或其他原因，著作權人對因本軟體、
+   使用本軟體或與本軟體有關的任何請求、損害或其他責任，一概不負責。
+
+7. 第三方元件。完整版（Nookpane.zip）內含 Microsoft .NET 執行階段，
+   它另外以 MIT 授權由 .NET Foundation 及貢獻者提供，見上方英文段落的連結。
+
+中文為方便閱讀的翻譯；兩者不一致時，以英文為準。
