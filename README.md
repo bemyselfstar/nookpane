@@ -52,7 +52,7 @@ Not sure which one? Take the green one: it includes everything. The blue one is 
 
 Open the [latest release](https://github.com/bemyselfstar/nookpane/releases/latest), scroll down to **Assets**, and click **Nookpane.zip**:
 
-<img src="assets/download-guide-en.png" width="900" alt="The Assets list on the release page: click Nookpane.zip; Nookpane-slim.zip is smaller but needs .NET; the other files are for automatic updates">
+<img src="assets/download-guide-en.png" width="900" alt="The Assets list on the release page: click Nookpane.zip; Nookpane-slim.zip is smaller but needs .NET; version.json and version.json.sig are for automatic updates">
 </details>
 
 ## Why Nookpane?
@@ -141,7 +141,7 @@ In the preview pane (`Alt+P`), Nookpane can show files File Explorer can't:
    | .NET included | ✅ nothing else to install | needs .NET Desktop Runtime 8+ |
    | Choose it if | you're not sure | you already have .NET, or a slow connection |
 
-   *(Other zip files in a release are used by automatic updates. You don't need them.)*
+   *(`version.json` and `version.json.sig` in each release are used by automatic updates. You don't need them.)*
 
 2. Unzip the whole folder anywhere you can write to, for example `D:\Tools\Nookpane\`. Avoid `C:\Program Files\`: Nookpane writes its log file next to itself.
 3. Run `Nookpane.exe`.

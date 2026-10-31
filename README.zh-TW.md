@@ -52,7 +52,7 @@
 
 打開[最新版的發佈頁](https://github.com/bemyselfstar/nookpane/releases/latest)，往下捲到 **Assets**，點 **Nookpane.zip**：
 
-<img src="assets/download-guide-zh.png" width="900" alt="發佈頁的 Assets 清單：一般人點 Nookpane.zip；Nookpane-slim.zip 較小但要先有 .NET；其他檔案是給自動更新用的">
+<img src="assets/download-guide-zh.png" width="900" alt="發佈頁的 Assets 清單：一般人點 Nookpane.zip；Nookpane-slim.zip 較小但要先有 .NET；version.json 兩個檔是給自動更新用的">
 </details>
 
 ## 為什麼選 Nookpane？
@@ -141,7 +141,7 @@
    | 內含 .NET | ✅ 不用另外裝 | 要先裝 .NET 桌面執行階段 8 以後 |
    | 適合 | 不確定就選這個 | 已經有 .NET，或網路很慢 |
 
-   *（每一版附的其他 zip 是給自動更新用的，你不用下載。）*
+   *（每一版附的 `version.json`、`version.json.sig` 是給自動更新用的，你不用下載。）*
 
 2. 把整個資料夾解壓縮到你有寫入權限的地方，例如 `D:\工具\Nookpane\`。不要放 `C:\Program Files\`：程式會在自己旁邊寫記錄檔。
 3. 執行 `Nookpane.exe`。
