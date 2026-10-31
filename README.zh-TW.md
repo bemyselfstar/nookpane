@@ -11,7 +11,7 @@
 [![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows)](#系統需求)
 [![免費軟體](https://img.shields.io/badge/license-freeware-2ea44f)](LICENSE.txt)
 
-[**下載**](https://github.com/bemyselfstar/nookpane/releases/latest) ·
+[**下載**](#下載) ·
 [功能](#功能) ·
 [安裝](#安裝) ·
 [常見問題](#常見問題) ·
@@ -27,6 +27,33 @@
 <p align="center"><sub>分頁、書籤列，以及預覽窗格裡的 Markdown 檔。檔案清單是真正的檔案總管畫面。（左側導覽窗格已模糊處理）</sub></p>
 
 ---
+
+## 下載
+
+<p align="center">
+  <a href="https://github.com/bemyselfstar/nookpane/releases/latest/download/Nookpane.zip"><img src="https://img.shields.io/badge/Download-Nookpane.zip%20%C2%B7%2072%20MB-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="下載 Nookpane.zip（72 MB）"></a>
+  &nbsp;
+  <a href="https://github.com/bemyselfstar/nookpane/releases/latest/download/Nookpane-slim.zip"><img src="https://img.shields.io/badge/Smaller-Nookpane--slim.zip%20%C2%B7%2013%20MB-1f6feb?style=for-the-badge" alt="下載 Nookpane-slim.zip（13 MB）"></a>
+</p>
+
+**點綠色按鈕就會直接開始下載。** 不用 GitHub 帳號、不用會 Git，下載到的永遠是最新版。
+不知道選哪個？選綠色的就對了，它什麼都包好了。藍色的比較小，但電腦要先裝好 [.NET 桌面執行階段](https://dotnet.microsoft.com/download/dotnet) 8 以後的版本。
+
+### 一步一步來
+
+1. 點上面綠色的 **Download** 按鈕，瀏覽器會把 `Nookpane.zip` 存到「**下載**」資料夾。
+   如果瀏覽器說這個檔案「不常下載」，選「**保留**」（Edge：按 **…** →「**保留**」）。
+2. 打開「下載」資料夾，在 `Nookpane.zip` 上按右鍵 →「**解壓縮全部…**」→「**解壓縮**」。
+3. 打開解出來的 **Nookpane** 資料夾，雙擊 **`Nookpane.exe`**。完成，不用安裝。
+4. 如果跳出「**Windows 已保護您的電腦**」，按「**其他資訊**」→「**仍要執行**」（[為什麼？](#出現windows-已保護您的電腦)）。
+
+<details>
+<summary><b>想從 Releases 頁下載？</b>看圖就知道點哪個</summary>
+
+打開[最新版的發佈頁](https://github.com/bemyselfstar/nookpane/releases/latest)，往下捲到 **Assets**，點 **Nookpane.zip**：
+
+<img src="assets/download-guide-zh.png" width="900" alt="發佈頁的 Assets 清單：一般人點 Nookpane.zip；Nookpane-slim.zip 較小但要先有 .NET；其他檔案是給自動更新用的">
+</details>
 
 ## 為什麼選 Nookpane？
 
@@ -107,7 +134,7 @@
 
 ## 安裝
 
-1. 從[**最新版**](https://github.com/bemyselfstar/nookpane/releases/latest)下載 zip：
+1. 用[上面的按鈕](#下載)下載 zip，或從[**最新版**](https://github.com/bemyselfstar/nookpane/releases/latest)下載：
 
    | | 完整版 `Nookpane.zip`（約 75 MB） | 精簡版 `Nookpane-slim.zip`（約 14 MB） |
    |---|---|---|

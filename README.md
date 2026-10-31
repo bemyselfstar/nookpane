@@ -11,7 +11,7 @@
 [![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows)](#requirements)
 [![Freeware](https://img.shields.io/badge/license-freeware-2ea44f)](LICENSE.txt)
 
-[**Download**](https://github.com/bemyselfstar/nookpane/releases/latest) ·
+[**Download**](#download) ·
 [Features](#features) ·
 [Install](#install) ·
 [FAQ](#faq) ·
@@ -27,6 +27,33 @@ by **bemyselfstar studio**
 <p align="center"><sub>Tabs, a bookmarks bar, and a Markdown file in the preview pane. The file list is the real File Explorer view, so it follows your Windows language. (Navigation pane blurred.)</sub></p>
 
 ---
+
+## Download
+
+<p align="center">
+  <a href="https://github.com/bemyselfstar/nookpane/releases/latest/download/Nookpane.zip"><img src="https://img.shields.io/badge/Download-Nookpane.zip%20%C2%B7%2072%20MB-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Nookpane.zip (72 MB)"></a>
+  &nbsp;
+  <a href="https://github.com/bemyselfstar/nookpane/releases/latest/download/Nookpane-slim.zip"><img src="https://img.shields.io/badge/Smaller-Nookpane--slim.zip%20%C2%B7%2013%20MB-1f6feb?style=for-the-badge" alt="Download Nookpane-slim.zip (13 MB)"></a>
+</p>
+
+**Click the green button and the download starts right away.** No GitHub account and no Git needed, and it's always the latest version.
+Not sure which one? Take the green one: it includes everything. The blue one is smaller but needs the [.NET Desktop Runtime](https://dotnet.microsoft.com/download/dotnet) 8 or later already installed.
+
+### Step by step
+
+1. Click the green **Download** button above. Your browser saves `Nookpane.zip` to your **Downloads** folder.
+   If the browser warns that the file "isn't commonly downloaded", choose **Keep** (in Edge: **…** → **Keep**).
+2. Open your Downloads folder, right-click `Nookpane.zip` → **Extract All…** → **Extract**.
+3. Open the extracted **Nookpane** folder and double-click **`Nookpane.exe`**. That's it: nothing to install.
+4. If Windows says **"Windows protected your PC"**, click **More info** → **Run anyway** ([why?](#windows-protected-your-pc)).
+
+<details>
+<summary><b>Prefer the Releases page?</b> Here's which file to click</summary>
+
+Open the [latest release](https://github.com/bemyselfstar/nookpane/releases/latest), scroll down to **Assets**, and click **Nookpane.zip**:
+
+<img src="assets/download-guide-en.png" width="900" alt="The Assets list on the release page: click Nookpane.zip; Nookpane-slim.zip is smaller but needs .NET; the other files are for automatic updates">
+</details>
 
 ## Why Nookpane?
 
@@ -107,7 +134,7 @@ In the preview pane (`Alt+P`), Nookpane can show files File Explorer can't:
 
 ## Install
 
-1. Download a zip from the [**latest release**](https://github.com/bemyselfstar/nookpane/releases/latest):
+1. Download a zip with the [buttons above](#download), or from the [**latest release**](https://github.com/bemyselfstar/nookpane/releases/latest):
 
    | | Full: `Nookpane.zip` (~75 MB) | Slim: `Nookpane-slim.zip` (~14 MB) |
    |---|---|---|
